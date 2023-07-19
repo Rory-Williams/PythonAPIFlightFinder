@@ -1,2 +1,0 @@
-flight_Key = 'X6MivaGQ_JrhhpLbiQKAaq0xgF3nXTxn'  # tequila api key
-sheety_ep = 'https://api.sheety.co/6c54c17eb15271b87094446e0225e552/flightDeals/prices'
